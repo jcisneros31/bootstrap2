@@ -1,0 +1,15 @@
+img{
+  width: 100%;
+  object-fit:contain;
+  
+}
+#jumbo{
+  padding:0;
+}
+.row{
+  display:flex;
+  justfiy-content: center;
+  justify-content: space-between;
+}
+
+
